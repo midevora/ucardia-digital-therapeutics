@@ -1,41 +1,54 @@
-🫀 Ucardia – Heart Health Reinvented
-Ucardia is a next-gen digital therapeutics platform designed to support patients in cardiac prevention and recovery. Through a seamless mobile experience, users can access personalized workouts, engage with dedicated heart coaches, and track their recovery in real-time — all from home.
+# ❤️ Ucardia – Your Heart Health Companion
 
-💡 What It Solves
-Heart patients often lack consistent guidance and motivation once they leave the hospital. Ucardia fills that gap with a clinical-grade solution that’s as supportive as it is scalable.
+[![Live App](https://img.shields.io/badge/Live-ucardia.com-green?style=flat-square&logo=google-chrome)](https://ucardia.com/)
+[![Built By DevoraOne](https://img.shields.io/badge/Built%20By-DevoraOne-blueviolet?style=flat-square)](https://devraone.com)
+![HealthTech Project](https://img.shields.io/badge/Industry-HealthTech-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-orange?style=flat-square)
 
-👥 Who It’s For
-Patients recovering from heart surgery or cardiac events
+---
 
-At-risk individuals seeking preventive care
+## 🫀 TL;DR
 
-Hospitals and cardiac rehabilitation programs looking for remote care solutions
+- 📱 **Heart health app** for recovery and prevention.
+- 🏋️ Personalized exercise plans designed by cardiologists.
+- 💬 One-on-one chat with certified heart coaches.
+- 📊 Progress tracking, medication reminders, and daily goals — all in one app.
 
-🚀 Key Features
-📱 Guided, physician-approved workout plans
+---
 
-💬 1:1 chat access with certified heart coaches
+## 🧠 About the Project
 
-📊 Progress tracking and compliance reporting
+**Ucardia** is a digital health solution built to support individuals recovering from cardiac events or aiming to prevent heart disease. Designed alongside medical experts, it bridges the gap between hospital and home with engaging, medically-backed tools.
 
-🧠 Educational modules for long-term health behavior change
+Key goals included:
 
-🏥 Clinician dashboard for remote patient monitoring
+- Boosting patient adherence with gamified goals.
+- Providing clinicians and coaches with real-time dashboards.
+- Delivering a HIPAA-compliant, scalable architecture.
 
-🛠️ Tech Stack
-React Native (iOS & Android)
+---
 
-Node.js + Express.js (API)
+## 🧰 Our Contribution
 
-MongoDB (Data Layer)
+- 📲 **Mobile App Development** (iOS + Android)
+- 🧠 Backend logic for workout personalization
+- 🔐 HIPAA-compliant secure data infrastructure
+- 💬 Live chat integration with coaching support
+- 🩺 Admin dashboard for heart coaches & clinics
 
-AWS & Firebase (Hosting + Messaging)
+---
 
-WebRTC / Twilio (Video chat features)
+## 🛠️ Tech Stack
 
-🔗 Live
-🌐 Visit Ucardia.com
+- **Frontend**: React Native, Expo
+- **Backend**: Node.js, Express
+- **Database**: MongoDB, Firebase (auth & push)
+- **Infra**: AWS, Docker, CI/CD Pipelines
+- **Compliance**: HIPAA, GDPR
 
-We craft smart, scalable products across:
-> FinTech • HealthTech • PropTech • Cybersecurity • EdTech • E-commerce • NFT/Blockchain  
-> Where Ideas Take Code → [devoraone.com](https://devoraone.com)
+---
+
+## 👨‍⚕️ Built by [DevoraOne](https://devraone.com)
+
+Looking to build a secure, scalable healthtech product?  
+📬 **Let’s talk.** We bring tech and care together, beautifully. Where Ideas Take Code.
